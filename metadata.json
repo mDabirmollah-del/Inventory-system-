@@ -1,0 +1,6 @@
+{
+  "name": "M/S Abdus Samad Mollah - Smart Offline Agro-POS",
+  "description": "Production Offline-First Agro POS, Agri-Prescription & ERP with Dexie.js IndexedDB, Google Sheets Cloud Sync, Due Ledger, and Cash Drawer for মেসার্স আব্দুস সামাদ মোল্লাহ্.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
